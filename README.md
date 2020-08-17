@@ -8,5 +8,5 @@ Step 2 - Extract digi sql.rar and import the sql file to PhpMyAdmin (http://loca
 Step 3 - Now type localhost/digi/index.html to access the homepage of the website
 
 Admin Login Credentials -
-  Username - harshutkarshmishra
+  Username - harshutkarshmishra,
   Password - 123
